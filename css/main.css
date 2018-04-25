@@ -1,0 +1,70 @@
+body {
+    width: 1000px;
+    padding-left:  300px;
+    padding-top:  50px;
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+.sidenav {
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    color: #333;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: x-large;
+}
+
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: x-large;
+}
+
+ul.posts li {
+    list-style: none;
+    font-size: x-large;
+}
+
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit; color: inherit}

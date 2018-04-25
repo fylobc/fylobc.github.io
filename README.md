@@ -1,1 +1,1 @@
-# fylobc.github.io
+# BitcoinEconomicsGuide.github.io

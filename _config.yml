@@ -1,0 +1,6 @@
+name: Bitcoin Economics Guide
+markdown: kramdown
+
+collections:
+  parts:
+    output: true
