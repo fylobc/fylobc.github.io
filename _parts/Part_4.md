@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Part 4: Can Bitcoin Function as a Currency? "
+title: "Can Bitcoin Function as a Currency? "
 ---
 
 <p>To answer this, let’s start by thinking about some useful properties for a currency. It should be:

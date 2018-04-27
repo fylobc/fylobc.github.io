@@ -3,6 +3,7 @@ layout: collection
 title: "Part 0: The Minimum You Need to Know About Bitcoin"
 ---
 
+<h2>How Bitcoin Works</h2>
 
 <p>Bitcoin is a digital payment system. Owners of Bitcoin have an address – a set of alphanumeric characters which identify their account – to which Bitcoin can be added or taken away. Each account is part of a global ledger, which has all of the account addresses and the number of Bitcoin in each account (note that Bitcoin are divisible, so an account could have 4.2 Bitcoin in it, for instance).</p>
 
@@ -21,6 +22,8 @@ title: "Part 0: The Minimum You Need to Know About Bitcoin"
   <li>there’s a limited supply.</li>
 </ul>
 </p>
+
+<h2>The Blockchain</h2>
 
 
 

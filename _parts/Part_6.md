@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Part 6: Bitcoin Businesses Part 2"
+title: "Bitcoin Businesses Part 2"
 ---
 
 

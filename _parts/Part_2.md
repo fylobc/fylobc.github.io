@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Part 2: The Economics of Mining"
+title: "The Economics of Mining"
 ---
 
 <h2>Individual Miners</h2>

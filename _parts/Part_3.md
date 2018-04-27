@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Part 3: Decentralized Currencies and Central Banks"
+title: "Decentralized Currencies and Central Banks"
 ---
 
 <p>One of Bitcoin’s main appeals is that it is decentralized: there is no central authority controlling its price. By contrast, currencies like the dollar or the euro are controlled by central banks like the US Federal Reserve and the European Central Bank. The aims of central banks is to control the supply and price of their currency. They can do this by printing more currency or buying it back and also by changing interest rates. Interest rates control how easy it is to lend money and also control inflation.</p>
