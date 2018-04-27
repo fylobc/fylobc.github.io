@@ -5,13 +5,13 @@ title: "Part 0: The Minimum You Need to Know"
 
 <h2>How Bitcoin Works</h2>
 
-<p>Bitcoin is a digital payment system. Owners of Bitcoin have an address – a set of alphanumeric characters which identify their account – to which Bitcoin can be added or taken away. Each account is part of a global ledger, which has all of the account addresses and the number of Bitcoin in each account (note that Bitcoin are divisible, so an account could have 4.2 Bitcoin in it, for instance).</p>
+<p>Bitcoin is a digital payment system. Owners of Bitcoin have an address – a set of alphanumeric characters which identify their account – to which Bitcoin can be added or taken away. Each account is part of a global ledger, which has all of the account addresses and the number of Bitcoin in each account. Bitcoin are divisible, so an account could have 4.2 Bitcoin in it, for instance. and they aren't "real": they're just numbers on the ledger.</p>
 
-<p>When one account (account A) sends a Bitcoin to another account (account B), a message is sent to the entire Bitcoin network (i.e., everyone who has the ledger) to update the ledger so that one Bitcoin is removed from account A and one Bitcoin is added to account B. This message is encrypted using account A’s private key, which is like a digital signature and must be kept safe.</p>
+<p>When one account (account A) sends a Bitcoin to another account (account B), a message is broadcast to the entire Bitcoin network (i.e., everyone who has the ledger) to update the ledger so that one Bitcoin is removed from account A and one Bitcoin is added to account B. But this message is encrypted using account A’s private key, which is like a digital signature that is unique to account A, and the message must be decrypted before the ledger can be updated.</p>
 
-<p>Bitcoin “miners” have a copy of the ledger and race to decrypt the message by solving a math problem. Decrypting the message verifies the transaction and every copy of the ledger is then updated to include the transaction. If someone tries to cheat the system by double-counting or committing fraud in some way, their message won’t be decrypted. The miner who solved the problem is awarded some newly minted Bitcoin as well as a transaction fee as an incentive for miners to maintain the ledger. 
+<p>Bitcoin “miners” have a copy of the ledger and race to decrypt the message by solving a math problem (they don't need to know the private key to decrypt the message). Decrypting the message verifies the transaction and every copy of the ledger is then updated to include the transaction. The miner who solved the problem is awarded some newly minted Bitcoin as well as a transaction fee as an incentive for miners to maintain the ledger.  Importantly, the Bitcoin protocol is set up so that if someone tries to cheat the system by double-counting or committing fraud in some way, their message won’t be decrypted.</p>
 
-<p> An important thing to know is that the total number of Bitcoin is fixed at 21 million, and about 17 million have been mined so far. Once all of the Bitcoin have been mined, miners will only compete for the transaction fees.</p>
+<p> The last thing to know is that the total number of Bitcoin is fixed at 21 million, and about 17 million have been mined so far. Once all of the Bitcoin have been mined, miners will only compete for the transaction fees.</p>
 
 <p>From this, you can see that Bitcoin has a few important properties:
 <ul style="font-size:x-large;">
