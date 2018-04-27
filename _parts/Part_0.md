@@ -5,7 +5,7 @@ title: "Part 0: The Minimum You Need to Know"
 
 <h2>How Bitcoin Works</h2>
 
-<p>Bitcoin is a digital payment system. Owners of Bitcoin have an address – a set of alphanumeric characters which identify their account – to which Bitcoin can be added or taken away. Each account is part of a global ledger, which has all of the account addresses and the number of Bitcoin in each account. Bitcoin are divisible, so an account could have 4.2 Bitcoin in it, for instance; and technically they aren't "real": they're just numbers on the ledger.</p>
+<p>Bitcoin is a digital payment system. Owners of Bitcoin have an address – a set of alphanumeric characters which identify their account – to which Bitcoin can be added or taken away. Each account is part of a global ledger, which has all of the account addresses and the number of Bitcoin in each account. Bitcoin are divisible, so an account could have 4.2 Bitcoin in it, for instance, and they don't actually represent anything: they're just numbers on the ledger.</p>
 
 <p>When one account (account A) sends a Bitcoin to another account (account B), a message is broadcast to the entire Bitcoin network (i.e., everyone who has the ledger) to update the ledger so that one Bitcoin is removed from account A and one Bitcoin is added to account B. But this message is encrypted using account A’s private key, which is like a digital signature that is unique to account A, and the message must be decrypted before the ledger can be updated.</p>
 
