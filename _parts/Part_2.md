@@ -3,15 +3,18 @@ layout: collection
 title: "The Economics of Mining"
 ---
 
-<h2>Individual Miners</h2>
+<h2>Individual miners</h2>
 
-<p>The economics for individual miners is pretty simply. As long as the added value of Bitcoin is positive, it’s worth mining for Bitcoin. In practice, this means that Bitcoin mining happens in places where electricity is cheap.</p>
+<p>The economics for individual miners is pretty simple. As long as the added value of Bitcoin is positive - as long as you can sell it for more than it takes to mine it - it is worth mining for Bitcoin. In practice, this means that Bitcoin mining happens in places where electricity is cheap.</p>
 
-<p>There are conglomerates of miners, however. This is an issue, because if the conglomerate becomes too big (basically if 51% of the miners team up) they can control the whole mining process and then it is possible to commit double spend, commit fraud, etc. Basically, Bitcoin wouldn’t be decentralized anymore. This does seem like another danger of Bitcoin. You have to trust that no single entity will dominate the mining process. A conglomeration of miners did get too big once, but they voluntarily decreased in size in order to keep the Bitcoin network safe.</p>
+<p>There are conglomerates of miners, however. This is an issue, because if the conglomerate becomes too big (basically if 51% of the miners team up) they can control the whole mining process and then it is possible to double spend, commit fraud, etc. Basically, Bitcoin wouldn’t be decentralized anymore. This does seem like another danger of Bitcoin. You have to trust that no single entity will dominate the mining process. A conglomeration of miners did get too big once, but they voluntarily decreased in size in order to keep the Bitcoin network safe.</p>
 
-<p>Right now about 10 mining groups dominate Bitcoin mining. This is somewhat worrying, but it is hoped that future advances in mining technology will allow mining to become more decentralized again.</p>
+<h2>Mining and Electricity Markets</h2>
 
-<p>Because the hardware costs are relatively small, Bitcoin mining is essentially a way of creating value out of electricity. This has a couple of interesting implications from both a geopolitical point of view, and from the point of view of individuals.</p>
+<p>Because the hardware costs are relatively small, Bitcoin mining is essentially a way of creating value out of electricity. There are
+
+
+</p>
 
 <p>On an international level, the existence of Bitcoin mining is an advantage for countries where electricity generation is cheap. Traditionally, these countries might have exported power (whether through power lines or by exporting coal or gas) to countries which do not have large energy resources. With Bitcoin mining, energy-rich countries could instead use their excess resources to mine for Bitcoin. Since the Bitcoin is more valuable than the electricity, this is like a tax on the power that would have been exported.</p>
 
