@@ -3,9 +3,7 @@ layout: collection
 title: "The Economics of Mining"
 ---
 
-<h2>Individual miners</h2>
-
-<p>The economics for individual miners is pretty simple. As long as the added value of Bitcoin is positive - as long as you can sell it for more than it takes to mine it - it is worth mining for Bitcoin. In practice, this means that Bitcoin mining happens in places where electricity is cheap.</p>
+<p>At first glance, the economics of mining is pretty simple. As long as the added value of Bitcoin is positive - as long as you can sell it for more than it takes to mine it - it is worth mining for Bitcoin. In practice, this means that Bitcoin mining happens in places where electricity is cheap.</p>
 
 <p>There are conglomerates of miners, however. This is an issue, because if the conglomerate becomes too big (basically if 51% of the miners team up) they can control the whole mining process and then it is possible to double spend, commit fraud, etc. Basically, Bitcoin wouldn’t be decentralized anymore. This does seem like another danger of Bitcoin. You have to trust that no single entity will dominate the mining process. A conglomeration of miners did get too big once, but they voluntarily decreased in size in order to keep the Bitcoin network safe.</p>
 
