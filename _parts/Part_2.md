@@ -5,15 +5,15 @@ title: "The Economics of Mining"
 
 <p>At first glance, the economics of mining is pretty simple. Because the hardware costs are relatively small, Bitcoin mining is essentially a way of creating value out of electricity. As long as the added value of Bitcoin is positive - as long as you can sell it for more than it takes to mine it - it is worth mining for Bitcoin. In practice, this means that Bitcoin mining happens in places where electricity is cheap.</p>
 
-<h2>Bitcoin Mining as Arbitrage</h2>
+<h2>Bitcoin mining as arbitrage</h2>
 
 <p><i>Arbitrage</i> is when you buy something in one market and then sell it in another market where it is more expensive. This could happen in time or in space. For instance, you could buy . Another example is if you know there are regular cycles in the price of an object.</p>
 
-<p>So Bitcoin mining it a kind of arbitrage, taking advantage of cheap electricity. This could happen in space -- mining could happen where electricity is cheap -- or time -- mining could happen when electricity is cheap.</p>
+<p>So Bitcoin mining it a kind of arbitrage, taking advantage of cheap electricity. This could happen in time -- mining could happen when electricity is cheap -- or space -- mining could happen where electricity is cheap. The extra price of Bitcoin is like a tax on the electricity.</p>
 
-<h2>Some Examples</h2>
+<h2>Some examples</h2>
 
-<p>Let's think about some examples of how people might use Bitcoin for abritrage</p>
+<p>Let's think about some examples of how people might use Bitcoin for arbitrage</p>
 
 <p>-On an international level, the existence of Bitcoin mining is an advantage for countries where electricity generation is cheap. Traditionally, these countries might have exported power (whether through power lines or by exporting coal or gas) to countries which do not have large energy resources. With Bitcoin mining, energy-rich countries could instead use their excess resources to mine for Bitcoin. Since the Bitcoin is more valuable than the electricity, this is like a tax on the power that would have been exported.</p>
 
