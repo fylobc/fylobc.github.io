@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Bitcoin Businesses Part 1"
+title: "The Blockchain and Trust"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "The Blockchain and Businesses Part 1"
+title: "The Blockchain and Businesses Part 2"
 ---
 
 
