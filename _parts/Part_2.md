@@ -7,7 +7,7 @@ title: "The Economics of Mining"
 
 <h2>Bitcoin mining as arbitrage</h2>
 
-<p><i>Arbitrage</i> is when you buy something in one market and then sell it in another market where it is more expensive. This could happen in time or in space. For instance, you could buy . Another example is if you know there are regular cycles in the price of an object.</p>
+<p><i>Arbitrage</i> is when you buy something in one market and then sell it in another market where it is more expensive. An example might be if a lamp cost $10 at Target and $12 on Amazon; you could go to Target, buy some lamps and then sell them on Amazon. Arbitrage can also happen in time: suppose the price of heating oil is higher in the winter than in the summer. You could buy some heating oil in the summer, then sell it off in the winter.</p>
 
 <p>So Bitcoin mining it a kind of arbitrage, "buying" cheap electricity by mining and then selling the electricity in the form of Bitcoin. This could happen in time: mining could happen when electricity is cheap, or space: mining could happen where electricity is cheap.</p>
 
