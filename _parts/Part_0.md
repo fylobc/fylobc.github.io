@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Part 0: The Minimum You Need to Know"
+title: "The Minimum You Need to Know"
 ---
 
 <h2>How Bitcoin works</h2>
