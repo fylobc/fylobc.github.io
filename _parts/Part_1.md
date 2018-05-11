@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Where Does Bitcoin’s Value Come From?"
+title: "A First Look At Where Bitcoin’s Value Comes From"
 ---
 
 <p>The best starting point for understanding Bitcoin is comparing it with gold. There are a number of similarities between Bitcoin and gold, so we can use what we already know about gold to understand Bitcoin. We can then build off this by thinking about the differences between gold and Bitcoin.</p>
