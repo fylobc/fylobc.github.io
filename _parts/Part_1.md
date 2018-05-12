@@ -63,7 +63,7 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 
 <h2>Is this it?</h2>
 
-<p>This is a starting point for thinking about Bitcoin's value. Bitoin has several other potential uses, which are discussed more later and would affect its value in other ways. But even without wider adoption of Bitcoin, it will have value for the reasons discussed above.</p>
+<p>This is a starting point for thinking about Bitcoin's value, based on how it's used today. If it becomes more widely adopted, and if the appropriate technical advances are nade, it could have other uses, especially as a digital currency. This would change what sets its value, but even if this doesn't happen, Bitcoin has value for many of the same reasons as gold does.</p>
 
 
 
