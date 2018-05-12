@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "The Blockchain and Trust"
+title: "Blockchain and Energy Part 2: Integrating Renewable Energy Sources"
 ---
 
 
