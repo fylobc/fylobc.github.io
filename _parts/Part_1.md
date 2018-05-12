@@ -42,7 +42,7 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 
 <h2>How does Bitcoin compare?</h2>
 
-<p>We can write analogous terms for Bitcoin. First, the cost of extraction is the price of the hardware needed to mine Bitcoin plus the price of the electricity to run a mining rig plus the time-cost to set up a mining rig:</p>
+<p>We can write analogous terms for Bitcoin. First, the cost of extraction is the price of the hardware needed to mine Bitcoin plus the price of the electricity to run a mining rig plus the time-cost to set up the rig:</p>
 
 <p><i>cost of Bitcoin extraction = hardware + electricity + time</i></p>
 
@@ -50,18 +50,18 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 
 <p>Naively, it might seem like Bitcoin has no intrinsic value, but it does. Because you can use Bitcoin anonymously, it will always have value for people who want to hide their (possibly illegal) transactions. It’s questionable whether it’s a good thing for Bitcoin to serve this purpose, but this application puts a lower limit on Bitcoin’s value.</p>
 
-<p>Next, Bitcoin is a good store of wealth for many of the same reasons as gold: it’s durable, relatively rare, has a limited supply and, because of the blockchain technology, is hard to fake. Most importantly, however, it is not third-party backed and it is decentralized. The benefit of no third-party backing is the same as with gold, while the main benefit of being decentralized is that no one entity can step in and arbitrarily change Bitcoin’s value. (Other benefits of decentralization are discussed in more detail later).</p>
+<p>Next, Bitcoin is a good store of wealth for many of the same reasons as gold: it’s durable, relatively rare, has a limited supply and, because of the blockchain technology, is hard to fake. Most importantly, however, it is not third-party backed and it is decentralized. The benefit of no third-party backing is the same as with gold, while the main benefit of being decentralized is that no one entity can step in and arbitrarily change Bitcoin’s value.</p>
 
-<p>There are some differences with gold in terms of Bitcoin’s value as a store of wealth, however. Bitcoin does not have a long history, so it’s always possible you’ll wake up one day and Bitcoin’s value will be wiped out because some new cryptocurrency has taken its place. On the other hand, Bitcoin might be more secure than gold, which you have to store somewhere and which can be physically stolen. The anonymity is also potentially a bonus for Bitcoin’s value as a store of wealth since it is hard to target an individual to steal their wealth (or tax them).</p>
+<p>There are some differences with gold in terms of Bitcoin’s value as a store of wealth, however. Bitcoin does not have a long history, so it’s always possible you’ll wake up one day and Bitcoin’s value will be wiped out because some new cryptocurrency has taken its place. On the other hand, Bitcoin might be more secure than gold, which you have to store somewhere and which can be physically stolen. The anonymity is also a bonus for Bitcoin’s value as a store of wealth since it is hard to target an individual to steal their wealth (or tax them).</p>
 
-<p>Finally, Bitcoin also has nebulous value from people speculating, wanting to own one, etc., so we can write:</p>
+<p>Finally, Bitcoin has nebulous value from people speculating, wanting to own one, etc., so we can write:</p>
 
 <p><i>added value of Bitcoin = intrinsic value + value as store of wealth + nebulous value</i></p>
 
-<p>As an aside, it’s often said that Bitcoin mining is terribly damaging to the environment because of all the electricity it uses. But right now Bitcoin’s added value is high, and going up quickly. So in fact Bitcoin mining is an environmentally efficient way of adding value to society. That's not to say that we should devote more resources to mining, but in evaluating the environmental impact of Bitcoin mining we have to think about how much value is being added to society as well as the resources that are used in the mining process.</p>
+<p>As an aside, it’s often said that Bitcoin mining is terribly damaging to the environment because of all the electricity it uses. But right now Bitcoin’s added value is high, and going up quickly. So in fact Bitcoin mining is an environmentally efficient way of adding value to society. That's not to say that we should devote more resources to mining it, but in evaluating the environmental impact of Bitcoin mining we have to think about how much value is being added to society as well as the resources that are used in the mining process.</p>
 
 
-<h2>What about other uses of Bitcoin?</h2>
+<h2>Is this it?</h2>
 
 <p>This is a starting point for thinking about Bitcoin's value. Bitoin has several other potential uses, which are discussed more later and would affect its value in other ways. But even without wider adoption of Bitcoin, it will have value for the reasons discussed above.</p>
 
