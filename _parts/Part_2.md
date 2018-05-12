@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Blockchain and Energy: Mining as Arbitrage"
+title: "Blockchain and Energy Part 1: Mining as Arbitrage"
 ---
 
 <p>At first glance, the economics of mining is pretty simple. Because the hardware costs are relatively small, Bitcoin mining is essentially a way of creating value out of electricity. As long as the added value of Bitcoin is positive - as long as you can sell it for more than it takes to mine it - it is worth mining for Bitcoin. In practice, this means that Bitcoin mining happens in places where electricity is cheap.</p>
