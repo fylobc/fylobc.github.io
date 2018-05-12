@@ -5,7 +5,7 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 
 <p>Bitcoin has only been around for a few years, but it already has a market cap of around 110 billion dollars. How should we interpret this? Is it an epic Ponzi scheme? Will this value disappear suddenly? Or is this something lasting?</p>
 
-<p>The best starting point for understanding Bitcoin is comparing it with gold. There are a number of similarities between Bitcoin and gold, so we can use what we already know about gold to understand Bitcoin. We can then build off this by thinking about the differences between gold and Bitcoin.</p>
+<p>The best starting point for understanding Bitcoin is comparing it with gold. At this point, the way people use Bitcoin is very similar to how people use gold, making it a commodity. So we can use what we already know about gold to get a first understanding of how to value Bitcoin.</p>
 
 <h2>Where does gold’s value come from?</h2>
 
