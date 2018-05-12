@@ -26,7 +26,7 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 <p>Gold is also a good store of wealth because of its history. People have valued gold for at least 4000 years, so even though its value fluctuates, you can be very confident it won’t ever go to zero. We also know that there’s a limited supply of gold, so its value won’t suddenly get wiped out by new gold flooding the market.</p>
 
 <p>In summary, gold is a good store of wealth because it:
-<ul><font size = 5>
+<ul>
   <li>is rare</li>
   <li>is durable</li>
   <li>is hard to fake</li>
