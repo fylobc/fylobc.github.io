@@ -5,7 +5,7 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 
 <p>Bitcoin has only been around for a few years, but it already has a market cap of around 110 billion dollars. How should we interpret this? Is it an epic Ponzi scheme? Will this value disappear suddenly? Or is this something lasting?</p>
 
-<p>The best starting point for understanding Bitcoin is comparing it with gold. At this point, the way people use Bitcoin is very similar to how people use gold, making it a commodity. So we can use what we already know about gold to get a first understanding of how to value Bitcoin.</p>
+<p>The best starting point for understanding Bitcoin is comparing it with gold. At this point, the way people use Bitcoin is very similar to how people use gold, as a commodity. So we can use what we already know about gold to get a first understanding of how to value Bitcoin.</p>
 
 <h2>Where does gold’s value come from?</h2>
 
@@ -21,9 +21,9 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 
 <p>The more important reason for gold’s value today is that it is useful as a store of wealth. It’s very durable, relatively rare (though not too rare) and it’s easy to spot counterfeits. It also doesn’t require third-party backing: you’re not relying on a government or a bank to back up its value. A counterexample is money in a bank account, which is basically an I.O.U. from the bank promising to give you that money if you ask for it back. If the bank goes bankrupt, the money is lost. By contrast, if you own a bar of gold, you’ll always have it (so long as you don’t lose it yourself).</p>
 
-<p>Another counterexample is fiat currencies that are backed by a government, like the US dollar. These have no intrinsic value: the paper that makes up a $20 bill isn’t worth $20 dollars. Instead, it is backed by the US government, which declares the $20 bill to be valuable. So the bill's value depends on the state of the US economy and also how the US economy is being managed; if the US economy suddenly tanks, the $20 bill could lose much of its value. A bar of gold, on the other hand, does not depend directly on a particular government or economy for its value.</p>
+<p>Another benefit of gold is that it's value is de-centralized, meaning that no cntral authority can step in and arbitrarily change its price. Instead, the price of gold is determined by the market</p>
 
-<p>Gold is also a good store of wealth because of its history. People have valued gold for at least 4000 years, so even though its value fluctuates, you can be very confident it won’t ever go to zero. We also know that there’s a limited supply of gold, so its value won’t suddenly get wiped out by new gold flooding the market.</p>
+<p>Finally, gold is a good store of wealth because of its history and finite supply. People have valued gold for at least 4000 years, so even though its value fluctuates, you can be very confident it won’t ever go to zero. We also know that there’s a limited supply of gold, so its value won’t suddenly get wiped out by new gold flooding the market.</p>
 
 <p>In summary, gold is a good store of wealth because it:
 <ul>
@@ -31,6 +31,7 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
   <li>is durable</li>
   <li>is hard to fake</li>
   <li>is not third party backed</li>
+  <li>is not controlled by a central authority</li>
   <li>has a long history of being valued</li>
   <li>has a finite supply</li>
 </ul>
@@ -48,9 +49,9 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 
 <p>so the real question is Bitcoin’s added value.</p>
 
-<p>Naively, it might seem like Bitcoin has no intrinsic value, but it does. Because you can use Bitcoin anonymously, it will always have value for people who want to hide their (possibly illegal) transactions. It’s questionable whether it’s a good thing for Bitcoin to serve this purpose, but this application puts a lower limit on Bitcoin’s value.</p>
+<p>Naively, it might seem like Bitcoin has no intrinsic value, but it does. Because Bitcoin can be used anonymously, it will always have value for people who want to hide their (possibly illegal) transactions. It’s questionable whether it’s a good thing for Bitcoin to serve this purpose, but this application puts a lower limit on Bitcoin’s value.</p>
 
-<p>Next, Bitcoin is a good store of wealth for many of the same reasons as gold: it’s durable, relatively rare, has a limited supply and, because of the blockchain technology, is hard to fake. Most importantly, however, it is not third-party backed and it is decentralized. The benefit of no third-party backing is the same as with gold, while the main benefit of being decentralized is that no one entity can step in and arbitrarily change Bitcoin’s value.</p>
+<p>Next, Bitcoin is a good store of wealth for many of the same reasons as gold: it’s durable, relatively rare, has a limited supply and, because of the blockchain technology, is hard to fake. Most importantly, it is not third-party backed and it is decentralized.</p>
 
 <p>There are some differences with gold in terms of Bitcoin’s value as a store of wealth, however. Bitcoin does not have a long history, so it’s always possible you’ll wake up one day and Bitcoin’s value will be wiped out because some new cryptocurrency has taken its place. On the other hand, Bitcoin might be more secure than gold, which you have to store somewhere and which can be physically stolen. The anonymity is also a bonus for Bitcoin’s value as a store of wealth since it is hard to target an individual to steal their wealth (or tax them).</p>
 
@@ -63,7 +64,7 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 
 <h2>Is this it?</h2>
 
-<p>This is a starting point for thinking about Bitcoin's value, based on how it's used today. If it becomes more widely adopted, and if the appropriate technical advances are nade, it could have other uses, especially as a digital currency. This would change what sets its value, but even if this doesn't happen, Bitcoin has value for many of the same reasons as gold does.</p>
+<p>This is a starting point for thinking about Bitcoin's value, based on how it's used today. If it becomes more widely adopted, and if the appropriate technical advances are made, it could have other uses, especially as a digital currency. In this case we would have to re-think what sets its value, but for now it's best to think of Bitcoin as a kind of digital gold, whose value can be understood from the equation above.</p>
 
 
 
