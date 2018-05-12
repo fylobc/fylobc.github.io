@@ -25,7 +25,7 @@ title: "The Minimum You Need to Know"
 </ul>
 </p>
 
-<p>One issue is conglomerates of miners: groups of miners who pool their resources together. If the conglomerate becomes too big (basically if 51% of the miners team up) it can control the mining process and double spend, commit fraud, etc. Basically, Bitcoin wouldn’t be decentralized anymore. This is another danger of Bitcoin: you have to trust that no single entity will dominate the mining. <a href="https://en.wikipedia.org/wiki/Ghash.io">A conglomeration of miners did get too big once</a>, but miners voluntarily left in order to keep the Bitcoin network safe.</p>
+<p>One issue is conglomerates of miners: groups of miners who pool their resources together. If the conglomerate becomes too big (basically if 51% of the miners team up) it can control the mining process and do naughty things like double spend, commit fraud, etc. Basically, Bitcoin wouldn’t be decentralized anymore. This is another danger of Bitcoin: you have to trust that no single entity will dominate the mining. <a href="https://en.wikipedia.org/wiki/Ghash.io">A conglomeration of miners did get too big once</a>, but miners voluntarily left in order to keep the Bitcoin network safe.</p>
 
 
 <h2>The Blockchain</h2>
