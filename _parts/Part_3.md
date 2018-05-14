@@ -9,11 +9,11 @@ title: "Decentralized Currencies and Central Banks"
 
 <h2>Bitcoin in practice</h2>
 
-<p>In theory, Bitcoin’s price could vary a lot in time and place. For instance, you could decide with your friend that 1 Bitcoin was worth a dollar. In practice, however, Bitcoin are primarily traded on large exchanges, like Coinbase and Bitfinex. The price of Bitcoin on these exchanges then sets the price of Bitcoin globally.</p>
+<p>In theory, Bitcoin’s price could vary a lot in time and place. For instance, you could decide with your friend that 1 Bitcoin is worth a dollar. In practice, however, Bitcoins are primarily traded on large exchanges, like Coinbase and Bitfinex, and the price of Bitcoin on these exchanges sets the price of Bitcoin globally.</p>
 
 <p>At first glance, this is pretty similar to how currencies work now, with the exchanges playing the role of banks. However, the difference is that this behavior isn’t forced. You can’t opt out of the conventional financial system, but you can opt out of the exchanges on Bitcoin.</p>
 
-<p>There are at least two advantages to this possibility. The first is that it gives you a kind of insurance. If something goes wrong in conventional financial markets you’re stuck, like in the Greece example. But with a decentralized currency you can always opt out of the system. If you don’t like how Coinbase is acting, or you think there could be trouble on the horizon, you could take your Bitcoin off the exchange and store them privately yourself.</p>
+<p>There are at least two advantages to this possibility. The first is that it gives you a kind of insurance. If something goes wrong in conventional financial markets you’re stuck, like in the Greece example. But with a decentralized currency you can always opt out of the system. If you don’t like how Coinbase is acting, or you think there could be trouble on the horizon, you could take your Bitcoin off the exchange and store them privately yourself (it's anyways a good idea to store your Bitcoin privately and not on the exchanges). This is a bit like keeping cash under the mattress, but instead of wads of bills you would store your wallet address and private keys safely.</p>
 
 <p>The other advantage is that you can carry out transactions outside of the exchanges. This freedom promotes creativity, since you don’t have to use Bitcoin the way it’s used by the exchanges. This is a less well defined advantage, since I don’t know how to be creative in this way, but here’s a potential scenario:</p>
 
