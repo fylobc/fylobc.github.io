@@ -51,7 +51,7 @@ title: "A First Look At Where Bitcoin’s Value Comes From"
 
 <p>Next, Bitcoin is a good store of wealth for many of the same reasons as gold: it’s durable, relatively rare, has a limited supply and, because of the blockchain technology, is hard to fake. Most importantly, it is not third-party backed and it is decentralized.</p>
 
-<p>There are some differences with gold in terms of Bitcoin’s value as a store of wealth, however. Bitcoin does not have a long history, so it’s always possible you’ll wake up one day and Bitcoin’s value will be wiped out because some new cryptocurrency has taken its place. On the other hand, Bitcoin might be more secure than gold, which you have to store somewhere and which can be physically stolen. The anonymity is also a bonus for Bitcoin’s value as a store of wealth since it is hard to target an individual to steal their wealth (or tax them).</p>
+<p>There are some differences with gold in terms of Bitcoin’s value as a store of wealth, however. Bitcoin does not have a long history, so it’s always possible you’ll wake up one day and Bitcoin’s value will be wiped out because some new cryptocurrency has taken its place. On the other hand, Bitcoin is easily transported from one place to another, and might also be more secure than gold, which you have to store somewhere and so can be physically stolen. The anonymity is also a bonus for Bitcoin’s value as a store of wealth since it is hard to target an individual to steal their wealth (or tax them).</p>
 
 <p>Finally, Bitcoin has nebulous value from people speculating, wanting to own one, etc., and so we can write:</p>
 
