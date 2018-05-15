@@ -23,7 +23,7 @@ title: "Decentralized Currencies and Central Banks"
 
 <p>Another aspect of not having a central authority is that Bitcoin isn't regulated, except for the basic rules embedded in how Bitcoin is designed, like no double-spending. Investing is the process of placing bets: on the value of a stock, a currency, a piece of land, etc., and so regulations are (in theory) put in place to save investors from themselves. For instance, to stop someone who has made a mistake in their analysis from placing too large a bet on a losing stock, or to stop one group of investors from taking advantage of another, less knowledgeable, group.</p>
 
-<p>There’s a huge literature on whether regulation is good or bad and I’m not going to go into it here. The basic question is whether regulation slows down economic activity, or at least how big a drag it is and whether that drag is worth it. So another potential benefit is if it leads to more efficient economic activity. A caveat to this is that governments are starting to regulate the centralized exchanges.</p>
+<p>There’s a huge literature on whether regulation is good or bad and I’m not going to go into it here. The basic question is whether regulation slows down economic activity, or at least how big a drag it is and whether that drag is worth it. So another potential benefit is if it leads to more efficient economic activity. A caveat to this is that governments are starting to regulate the centralized exchanges, and some are even banning its citizens from owning Bitcoin.</p>
 
 
 
