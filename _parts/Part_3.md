@@ -14,16 +14,16 @@ title: "Decentralized Currencies and Central Banks"
 
 <h2>Bitcoin in practice</h2>
 
-<p>With no central organization regulating it, Bitcoin’s price could in theory vary a lot in time and place. For instance, you could decide with your friend that one Bitcoin is worth one dollar and keep that exchange rate between you. But in practice Bitcoin are primarily traded on large, centralized exchanges, like Coinbase and Bitfinex, and the price of Bitcoin on these exchanges sets the price of Bitcoin globally.</p>
+<p>With no central organization regulating it, Bitcoin’s price could in theory vary a lot in time and place. For instance, you could decide with your friend that one Bitcoin is worth one dollar and keep that exchange rate between you. But in practice Bitcoin are primarily traded on large, centralized exchanges which operate a lot like banks, like Coinbase and Bitfinex, and the price of Bitcoin on these exchanges sets the price of Bitcoin globally.</p>
 
 <p>At first glance, this is pretty similar to how ordinary currencies work now, with the exchanges playing the role of banks, but the difference is that this behavior isn’t forced. You can’t opt out of the conventional financial system, but you can opt out of the exchanges on Bitcoin. So if you don’t like how Coinbase is acting, or you think there could be trouble on the horizon, you could take your Bitcoin off the exchange and store them privately yourself (it's anyways a good idea to store your Bitcoin privately and not on the exchanges). This is a bit like keeping cash under the mattress, but instead of wads of bills you would store your wallet address and private keys, and you could still carry out transactions outside of the exchanges. You could also use a decentralized exchange, or just set up your own exchange. </p>
 
 
-<h2>Lack of regulation</h2>
+<h2>Regulation</h2>
 
-<p>Obviously, there are also downsides to the lack of a central authority. This is discussed more in the next section on using Bitcoin as a currency, in the context of price stability. For now, I just want to mention that the lack of regulation applies to individual investors or users or Bitcoin. Investing is the process of placing bets: on the value of a stock, a currency, a piece of land, etc. Regulations are put on investments to save investors from themselves. For instance, to stop someone who has made a mistake in their analysis from placing too large a bet on a losing stock.</p>
+<p>Another aspect of not having a central authority is that Bitcoin isn't regulated, except for the basic rules embedded in how Bitcoin is designed, like no double-spending. Investing is the process of placing bets: on the value of a stock, a currency, a piece of land, etc., and so regulations are (in theory) put in place to save investors from themselves. For instance, to stop someone who has made a mistake in their analysis from placing too large a bet on a losing stock, or to stop one group of investors from taking advantage of another, less knowledgeable, group.</p>
 
-<p>The question of regulation is long and there’s a huge literature on the subject; I’m not going to go into it here.</p>
+<p>There’s a huge literature on whether regulation is good or bad and I’m not going to go into it here. The basic question is whether regulation slows down economic activity, or at least how big a drag it is and whether that drag is worth it. So another potential benefit is if it leads to more efficient economic activity. A caveat to this is that governments are starting to regulate the centralized exchanges.</p>
 
 
 
