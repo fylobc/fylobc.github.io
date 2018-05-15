@@ -9,7 +9,7 @@ title: "Decentralized Currencies and Central Banks"
 
 <p>Another example of poor government management is the <a href="https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe">hyperinflation in Zimbabwe in the late 90s and 2000s</a>. At its height in November 2008 Zimbabwe's rate of inflation has been estimated at around 80 billion%. This had disastrous consequences for Zimbabwe's economy, and its citizens found the money they earned one day being worthless the next. They also couldn't get loans to raise capital, and Zimbabwe's banking sector collapsed.</p>
 
-<p>Owners of a decentralized currency like Bitcoin would never have to worry about either of these things happening to them, no mater what their government was doing.</p>
+<p>Owners of a decentralized currency like Bitcoin would never have to worry about either of these things happening to them, no matter what their government was doing.</p>
 
 
 <h2>Bitcoin in practice</h2>
