@@ -21,6 +21,14 @@ title: "1. Into Friedland"
 
 “My pleasure. I’ve watched the Friedland experiment from a distance, and I’m curious to see how your meeting goes,” Professor Ervin said as she walked Leila to the door. “Safe travels.”
 
+<hr>
+
+Lisa looked out of the window and thought of that Cormac McCarthy line: “The floor of the playa lay smooth and unbroken by any track and the mountains in their blue islands stood footless in the void like floating temples.” She tried to rework it for the Pacific, which was smooth and unbroken and blue below her, separated by white islands of cloud.
+
+She wasn’t enough of a connoisseur to say whether it was better than other first class experiences, but it was a nice ride. She had a private pod with a window and an L-shaped couch. Everything was over-designed, as you’d expect, advertising its innovation. The flight was perfectly smooth, as the plane’s navigation system always found the stillest air. It reminded Lisa of a high speed train.
+
+The “traditional” way of getting to Friedland was via private jet, and Aviato was the only commercial airline that had a license to land on the island, so it was expensive (this was deliberate of course). But the team was flying first class to be as fresh as possible. The negotiations started the day after they landed.
+
 
 
 
