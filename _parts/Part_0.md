@@ -27,7 +27,7 @@ Lisa nodded and looked through the notes she had made in preparation for the mee
 
 <hr>
 
-Lisa looked out of the window and thought of that Cormac McCarthy line: “The floor of the playa lay smooth and unbroken by any track and the mountains in their blue islands stood footless in the void like floating temples.” She tried to rework it for the Pacific, which was smooth and unbroken and blue below her, separated by white islands of cloud.
+Lisa looked out of the window and thought of the Cormac McCarthy line: <a href="https://books.google.com/books?id=s-QzccStux4C&pg=PA114&lpg=PA114&dq=The+floor+of+the+playa+lay+smooth+and+unbroken+by+any&source=bl&ots=hpVYn0bIij&sig=0Ge8koeRhV5zK1xzXlc8HTp0kCs&hl=en&sa=X&ved=0ahUKEwiYo8CB-67bAhVCqFQKHSUSC7cQ6AEIOzAC#v=onepage&q=The%20floor%20of%20the%20playa%20lay%20smooth%20and%20unbroken%20by%20any&f=false">“The floor of the playa lay smooth and unbroken by any track and the mountains in their blue islands stood footless in the void like floating temples.”</a> She tried to rework it for the Pacific, which was smooth and unbroken and blue below her, separated by white islands of cloud.
 
 She wasn’t enough of a connoisseur to say whether it was better than other first class experiences, but it was a nice ride. She had a private pod with a window and an L-shaped couch. She’d watched a movie on the 50-inch screen and FaceTimed her husband for an hour. Everything was over-designed, as you’d expect, advertising its innovation. The flight was perfectly smooth, as the plane’s navigation system always found the stillest air. It reminded Lisa of a high speed train.
 
@@ -37,7 +37,9 @@ The foreignness of the people running Friedland made Lisa nervous. She was used 
 
 She still had no feel for what their stance was going to be. Outsiders couldn’t access their property agreements, but in theory there was enough space for Friedland to take in 10 000 refugees, especially since so many of its inhabitants seemed to travel a lot. If the members were particularly moved by humanitarian concerns, it was also conceivable that they would build a new island to house the refugees. Maybe they could even take in much more than 10 000. That was the dream scenario, and she didn’t rule it out. As everyone had stressed to her, the people running Friedland liked thinking outside the box, and building a new island would solve a lot of problems. 
 
+On the other hand, Friedland was an oasis of techno-libertarians, who didn’t seem like the sort of people who worried too much about issues like housing refugees. Lisa had read that one of the island’s main philanthropic endeavors was the Artificial Intelligence Containment Institute, which researched how to control superintelligent programs. The Friedland community considered these programs as existential risks to humanity, and so viewed funding this research as the most effective form of philanthropy.
 
+So the team had had to prepare for any possibility, from outright rejection to an offer to make a big dent in the global refugee population.
 
 
 
