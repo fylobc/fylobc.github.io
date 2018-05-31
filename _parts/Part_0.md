@@ -7,27 +7,27 @@ title: "1. Into Friedland"
 
 “Why did you find it uncomfortable?” Lisa asked. “Was the attention too much?”
 
-“No, it wasn’t that,” Professor Ervin answered. She paused for a moment. “There is an undercurrent of fanaticism to it all. The people who really make it – and they need this to achieve what they do – they’re true believers. In themselves, in the power of technology, of engineering. Human ingenuity, really. Ultimately, they believe that if they think about something for long enough, they’ll find a clean answer.”
+“No, it wasn’t that,” Professor Ervin answered. She paused for a moment. “There is an undercurrent of fanaticism to it all. The people who really make it – and they need this to achieve what they do – they’re true believers. In themselves, in the power of technology, of engineering. Human ingenuity, really. Ultimately, they believe that if they think about something for long enough, they’ll find a neat and clean answer.”
 
 “Whereas in fact the world is a messy place.”
 
-“In a way yes, but it’s more about being dogmatic. In a deep way, they suffer from confirmation bias. They build theories about the world, which they’re willing to test and discard if they fail. But they don’t question the fundamental assumption about whether the world can be theorized at all.”
+“In a way yes, but it’s more about being dogmatic. In a deep way, they suffer from confirmation bias. They build theories about the world, which they’re willing to test and discard if necessary. But they don’t question the fundamental assumption about whether the world can be theorized at all.”
 
 “There’s also something superficial to it as well, isn’t there? They take things very personally.”
 
-“Yes, exactly. Fanatics always do. If you start questioning them it doesn’t take long before they start feeling like you’re trying to undermine their core beliefs. Things get existential quickly.
+“Yes, exactly. Fanatics always do. If you start questioning them it doesn’t take long before they start to feel like you’re trying to undermine their core beliefs. Things get existential quickly.
 
-Lisa nodded and looked through the notes she had made in preparation for the meeting. “So what’s your advice for me?” she asked.
+Lisa nodded and looked through the notes she had made in preparation for the meeting. “So what’s your advice?” she asked.
 
-“It’s a bit of a Catch-22,” Professor Ervin said, and laughed. “You’ll want to keep an open mind, because they will have useful ideas. And their optimism is infectious, you’ll feel energized. But you should also be wary. Listen to what they have to say, then give yourself some time to process it. You might realize there’s a detail that bothers you.”
+“It’s a bit of a Catch-22,” Professor Ervin said, and laughed. “You want to keep an open mind, because they will have useful ideas. And their optimism is infectious, you’ll feel energized. But you should also be wary. Listen to what they have to say, then give yourself some time to process it. You might realize there’s a detail that bothers you.”
 
 “Thanks, I’ll keep that in mind. And thanks again for meeting with me.”
 
-“My pleasure. I’ve watched the Friedland experiment from a distance, and I’m curious to see how your meeting goes,” Professor Ervin said as she walked Lisa to the door. “Safe travels.”
+“My pleasure. It's been fascinating to watch the Friedland experiment from a distance, and I’m curious to see what happens,” Professor Ervin said as she walked Lisa to the door. “Safe travels.”
 
 <hr>
 
-Lisa looked out of the window and thought of the Cormac McCarthy line: <a href="https://books.google.com/books?id=s-QzccStux4C&pg=PA114&lpg=PA114&dq=The+floor+of+the+playa+lay+smooth+and+unbroken+by+any&source=bl&ots=hpVYn0bIij&sig=0Ge8koeRhV5zK1xzXlc8HTp0kCs&hl=en&sa=X&ved=0ahUKEwiYo8CB-67bAhVCqFQKHSUSC7cQ6AEIOzAC#v=onepage&q=The%20floor%20of%20the%20playa%20lay%20smooth%20and%20unbroken%20by%20any&f=false">“The floor of the playa lay smooth and unbroken by any track and the mountains in their blue islands stood footless in the void like floating temples.”</a> She tried to rework it for the Pacific, which was smooth and unbroken and blue below her, separated by white islands of cloud.
+Lisa looked out of the window and thought of the Cormac McCarthy line: <a href="https://books.google.com/books?id=s-QzccStux4C&pg=PA114&lpg=PA114&dq=The+floor+of+the+playa+lay+smooth+and+unbroken+by+any&source=bl&ots=hpVYn0bIij&sig=0Ge8koeRhV5zK1xzXlc8HTp0kCs&hl=en&sa=X&ved=0ahUKEwiYo8CB-67bAhVCqFQKHSUSC7cQ6AEIOzAC#v=onepage&q=The%20floor%20of%20the%20playa%20lay%20smooth%20and%20unbroken%20by%20any&f=false">“The floor of the playa lay smooth and unbroken by any track and the mountains in their blue islands stood footless in the void like floating temples.”</a> She tried to rework it for the Pacific below her, which was smooth and unbroken and blue, separated by white islands of cloud.
 
 She wasn’t enough of a connoisseur to say whether it was better than other first class experiences, but it was a nice ride. She had a private pod with a window and an L-shaped couch. She’d watched a movie on the 50-inch screen and FaceTimed her husband for an hour. Everything was over-designed, as you’d expect, advertising its innovation. The flight was perfectly smooth, as the plane’s navigation system always found the stillest air. It reminded Lisa of a high speed train.
 
