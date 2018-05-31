@@ -35,13 +35,13 @@ The “traditional” way of getting to Friedland was via private jet, and Aviat
 
 The foreignness of the people running Friedland made Lisa nervous. She was used to negotiating with people from similar backgrounds to herself: policy analysts, lawyers and career politicians. But Friedland’s governing council was made up of tech entrepreneurs, investors and academics. It was more like going to a board meeting, or even participating in a Reddit thread. 
 
-She still had no feel for what their stance was going to be. Outsiders couldn’t access their property agreements, but in theory there was enough space for Friedland to take in 10 000 refugees, especially since so many of its inhabitants seemed to travel a lot. If the members were particularly moved by humanitarian concerns, it was also conceivable that they would build a new island to house the refugees. Maybe they could even take in much more than 10 000. That was the dream scenario, and she didn’t rule it out. As everyone had stressed to her, the people running Friedland liked thinking outside the box, and building a new island would solve a lot of problems. 
+She still had no feel for what their stance was going to be. This was the first time that Friedland had been engaged in international diplomacy since the negotiations to create the island ended seven years ago. 
+
+Outsiders couldn’t access their property agreements, but in theory there was enough space for Friedland to take in 10 000 refugees, especially since so many of its inhabitants seemed to travel a lot. If the members were particularly moved by humanitarian concerns, it was also conceivable that they would build a new island to house the refugees. Maybe they could even take in much more than 10 000. That was the dream scenario, and she didn’t rule it out. As everyone had stressed to her, the people running Friedland liked thinking outside the box, and building a new island would solve a lot of problems. 
 
 On the other hand, Friedland was an oasis of techno-libertarians, who didn’t seem like the sort of people who worried too much about issues like housing refugees. Lisa had read that one of the island’s main philanthropic endeavors was the Artificial Intelligence Containment Institute, which researched how to control superintelligent programs. The Friedland community considered these programs as existential risks to humanity, and so viewed funding this research as the most effective form of philanthropy.
 
-So the team had had to prepare for any possibility, from outright rejection to an offer to make a big dent in the global refugee population.
+So the team had had to prepare for any possibility, from outright rejection to an offer to make a big dent in the global refugee population. They weren't even sure how the decisions would be made. I was known that Friedland had stuck with the governing council laid out during the negotiations for its formation, but some decisions were also made via an elaborate online voting process, which all residents could participate in. It occurred to Lisa that the island might encourage a culture of secrecy exactly to gain an advantage in negotiating with outsiders.
 
-
-
-
+In any case, the team had prepped seven different scenarios, and Lisa had visited various experts: political scientists, economists, psychologists and tech people who hadn’t moved to the island, to try to get some insights. So far no one had left the island, so she didn’t have any former residents to ask for tips, but she had done as much homework as she could.
 
