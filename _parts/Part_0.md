@@ -15,7 +15,7 @@ title: "1. Into Friedland"
 
 “There’s also something superficial to it as well, isn’t there? They take things very personally.”
 
-“Yes, exactly. Fanatics always do. If you start questioning them it doesn’t take long before they start to feel like you’re trying to undermine their core beliefs. Things get existential quickly.
+“Yes, exactly. Fanatics always do. If you start questioning them it doesn’t take long before they start to feel like you’re trying to undermine their core beliefs. Things get existential quickly."
 
 Lisa nodded and looked through the notes she had made in preparation for the meeting. “So what’s your advice?” she asked.
 
