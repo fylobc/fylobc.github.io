@@ -61,7 +61,7 @@ A group of two men and a woman met Lisa and her team as they de-planed at Nozick
 
 “Perfect,” Lisa said.
 
-Lisa got into a four person car with Mike, Greta, and Suhil, Lisa’s assistant. They made awkward small talk for a bit and then passed into silence, as the hosts respected that Lisa and Suhil were tired from the long trip.
+Lisa got into a four person car with Mike, Greta, and Suhil, the other lead negotiator. They made awkward small talk for a bit and then passed into silence, as the hosts respected that Lisa and Suhil were tired from the long trip.
 
 It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present, even in the center of the city, though the island was so massive it didn't feel the waves. The buildings were mostly apartment blocks, four or five stories high, though there were some mansions dotted among them, and each neighborhood had a park. Topography had been added, with the highest point of the island close to the eastern shore, and there were plenty of trees, gardens and public art installations.
 
