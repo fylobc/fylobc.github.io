@@ -63,11 +63,12 @@ A group of two men and a woman met Lisa and her team as they de-planed at Nozick
 
 Lisa got into a four person car with Mike, Greta, and Suhil, the other lead negotiator. They made awkward small talk for a bit and then passed into silence, as the hosts respected that Lisa and Suhil were tired from the long trip.
 
-It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present, even in the center of the city, though the island was so massive it didn't feel the waves. The buildings were mostly apartment blocks, four or five stories high, though there were some mansions dotted among them, and each neighborhood had a park. Topography had been added, with the highest point of the island close to the eastern shore, and there were plenty of trees, gardens and public art installations.
+It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present -- even in the center of the island you could smell the salt water -- but the island was so massive it didn't feel the waves. The buildings were mostly apartment blocks, four or five stories high, though there were some bungalows and family homes dotted among them, and each neighborhood had a park. The surface of the island had some gentle topography, and a hill on the eastern edge which was the highest point of the island.
 
-What stuck out the most was the newness of everything. In the way that American cities can feel young to European visitors, Friedland felt young to outside visitors. Not that the architecture was sterile or homogeneous. The master urban plan had been done by B.I.G., but competitions had been held to design different parts of the city, and even specific buildings. The central avenues were wide, but also had wide bike lanes and pavements. Some side streets were also wide, while others were very narrow, and pedestrian only. The city bustled, though it still felt slightly undercrowded. Lisa made a mental note that the infrastructure could support an increase in the population. 
+What stuck out the most was the newness of everything. All the materials were clean and modern, and there was a studied lack of sterility and homogeneity. The master urban plan had been done by B.I.G., but competitions had been held to design different parts of the city, and even specific buildings, so each neighborhood had a distinct character. The pod took them down a wide central avenue, which also had space for bike lanes and tree-lined pavements. Off the main road there were narrow side streets, some of them so narrow that only pedestrians and bikes could use them. 
 
-But everything was made of new materials, and clean, with a studied lack of sterility. It would take decades before Friedland had the character it was trying to project.
+The city bustled, but it still felt slightly undercrowded, and Lisa made a mental note that the infrastructure could easily support an increase in the population. 
+
 
 
 
