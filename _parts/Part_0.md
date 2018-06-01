@@ -55,16 +55,19 @@ A group of two men and a woman met Lisa and her team as they de-planed at Nozick
 
 “We’ve split you up across four apartments, four in each one. They’re on the North Shore, looking out over the water, I think you’ll like them.”
 
-“Thank you,” Lisa said again. “And transportation?”
+“Sounds great! And transportation?”
 
-“Oh Lyft works here just like anywhere else. You can just call a car. The sizes go from individual cars to six people vans.”
+“Oh Lyft works here just like anywhere else, you can just call a car. The sizes go from individual pods to six people vans.”
 
 “Perfect,” Lisa said.
 
+Lisa got into a four person car with Mike, Greta, and Suhil, Lisa’s assistant. They made awkward small talk for a bit, but then passed into silence, as the hosts respected that Lisa and Suhil were dazed from the long trip.
 
+It was like a cross between being on an aircraft carrier and being in Dubai or Singapore. The water always felt present, even in the center of the city, but the island was so massive you never felt the waves. The buildings were mostly apartment blocks, four or five stories high, though there were some mansions dotted among them, and each neighborhood had a park. Artificial topography had been added, with the highest point close to the eastern shore, and there were plenty of trees, gardens and public art installations.
 
+What stuck out the most was the newness of everything. In the way that American cities can feel young to European visitors, Friedland felt young to outside visitors. Not that the architecture was sterile or homogeneous. The master urban plan had been done by B.I.G., but competitions had been held to design different parts of the city, and even specific buildings. The central avenues were wide, but also had wide bike lanes and pavements. Some side streets were also wide, while others were very narrow, and pedestrian only. The city bustled, though it still felt slightly undercrowded. Lisa made a mental note that the infrastructure could support an increase in the population. 
 
-
+But everything was made of new materials, and clean, with a studied lack of sterility. It would take decades before Friedland had the character it was trying to project.
 
 
 
