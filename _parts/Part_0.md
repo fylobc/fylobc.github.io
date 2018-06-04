@@ -7,7 +7,7 @@ title: "1. Into Friedland"
 
 “Why did you find it uncomfortable?” Lisa asked. “Was the attention too much?”
 
-“No, it wasn’t that,” Professor Ervin answered. She paused for a moment. “There is an undercurrent of fanaticism to it all. The people who really make it – and they need this to achieve what they do – they’re true believers. In themselves, in the power of technology, of engineering. Human ingenuity, really. Ultimately, they believe that if they think about something for long enough, they’ll find a neat and clean answer.”
+“No, it wasn’t that,” Professor Ervin answered. She paused for a moment. “There is an undercurrent of fanaticism to it all. The people who really make it – and they need this to achieve what they do – they’re true believers. In themselves, in the power of technology, of engineering. Human ingenuity, really. Ultimately, they believe that if they think about something for long enough, they’ll find a neat answer.”
 
 “Whereas in fact the world is a messy place.”
 
@@ -27,43 +27,43 @@ Lisa nodded and looked through the notes she had made in preparation for the mee
 
 <hr>
 
-Lisa looked out of the window and thought of that line from Blood Meridian: “The floor of the playa lay smooth and unbroken by any track and the mountains in their blue islands stood footless in the void like floating temples.” She tried to rework it for the Pacific, which was smooth and unbroken and blue below her, separated by white islands of cloud.
+Lisa looked out of the window and thought of that line from Blood Meridian: <a href="https://books.google.com/books?id=s-QzccStux4C&pg=PA114&lpg=PA114&dq=The+floor+of+the+playa+lay+smooth+and+unbroken+by+any+track+and+the+mountains&source=bl&ots=hpVZhZfDod&sig=tZsiYYv6B8mVy_-6ceOdPzWUyAM&hl=en&sa=X&ved=0ahUKEwjypZPO6rnbAhUI7p8KHaW-ArkQ6AEIOjAC#v=onepage&q=The%20floor%20of%20the%20playa%20lay%20smooth%20and%20unbroken%20by%20any%20track%20and%20the%20mountains&f=false">“The floor of the playa lay smooth and unbroken by any track and the mountains in their blue islands stood footless in the void like floating temples.”</a> She tried to rework it for the Pacific, which was smooth and unbroken and blue below her, separated by white islands of cloud.
 
 She wasn’t enough of a connoisseur to say whether it was better than other first class services, but it was a nice ride. She had a private pod with an L-shaped couch, a window and a 50-inch screen, and the wireless was good enough to FaceTime with her husband for an hour. Everything was over-designed, as you’d expect, advertising its innovation, and the flight was perfectly smooth, with the plane’s navigation system keeping them away from any turbulence. It reminded Lisa of riding on a high speed train.
 
 The traditional way of getting to Friedland was via private jet, and Aviato was the only commercial airline that had a license to land on the island (this was deliberate of course), so it was expensive, but the team had been sent first class since the negotiations started the day after they landed. 
 
-Lisa still felt uneasy about the foreigness of the people running Friedland. She was used to negotiating with people from similar backgrounds to herself: policy analysts, lawyers, career politicians. Friedland’s governing council was made up of tech entrepreneurs, investors and academics. It was more like going to a board meeting, or even participating in a Reddit thread, and she had no feel for what the island's stance was going to be. This was the first time Friedland had been engaged in international diplomacy since the negotiations to create the island wrapped up seven years ago. The negotiating team weren't even sure how the decisions would be made. It was known that Friedland had stuck with the governing council-model laid out in the agreement for its formation, but some decisions were also made via an elaborate online voting system, which all residents could participate in. 
+Lisa still felt uneasy about the foreigness of the people running Friedland. She was used to negotiating with people from similar backgrounds to herself: policy analysts, lawyers, career politicians. Friedland’s governing council was made up of tech entrepreneurs, investors and academics. It was more like going to a board meeting, or even participating in a Reddit thread, and she had no feel for what the island's stance was going to be. This was the first time Friedland had been engaged in international diplomacy since the negotiations to create the island wrapped up seven years ago. From outside, it wasn't even clear how decisions were made on the island. It was known that Friedland had stuck with the governing council-model laid out in the agreement for its formation, but some decisions were also made via an elaborate online voting system, which all residents could participate in. 
 
 Outsiders also couldn’t access the island's property agreements, though in theory there was enough space for Friedland to take in 10 000 refugees, especially since its inhabitants tended to travel a lot. If the residents were particularly moved, they might even be persuaded to build another island to house refugees. That was a dream scenario, but she didn’t rule it out. As everyone had stressed to her, the people who lived in Friedland liked thinking outside the box, and building a new island was an innovative way of addressing the refugee crisis.
 
 On the other hand, Friedland was an oasis of techno-libertarians, who didn’t seem like the sort of people who worried too much about things like housing refugees. Lisa had read that one of the island’s main philanthropic endeavors was the Artificial Intelligence Containment Institute, which studied how to control superintelligent programs. The Friedland community considered these to be the most dangerous risk to humanity and funding this research was viewed as the most effective form of philanthropy.
 
-So the team had had to prepare for any possibility, from outright rejection to an offer to house a substantial fraction of the global refugee population. Lisa had met with various people who might give her some insight on what to expect: political scientists, economists, psychologists and people in tech who hadn’t moved to the island, but no one given her anything more useful than general negotiating advice. The problem was no one had ever moved back off the island, so all the information the team had came from the agreement founding Friedland and from trawling through the internet and public posts on social media. It occurred to Lisa that the island might encourage a culture of secrecy exactly to gain an advantage in negotiating with outsiders.
+So the team had had to prepare for any possibility, from outright rejection to an offer to house a substantial fraction of the global refugee population. Lisa had met with various people who might give her some insight on what to expect: political scientists, economists, psychologists and people in tech who hadn’t moved to the island, but no one given her anything more than general negotiating advice. The problem was no one had ever moved back off the island, so all the information the team had came from the agreement founding Friedland and from trawling through the internet and public posts on social media. It had occurred to Lisa that the island might encourage a culture of secrecy exactly to gain an advantage in negotiating with outsiders.
 
-Despite her unease, there was nothing more Lisa could do, so she put on a movie and tried to relax as the plane started its descent over the south Pacific.
+Despite her unease, there was nothing more Lisa could do, so she selected a movie on the screen and tried to relax as the plane started its descent over the south Pacific.
 
 <hr>
 
-A group of two men and a woman met Lisa and her team as they de-planed at Nozick airport. They were dressed casually, in sandals, plaid shirts and shorts, and Lisa felt overdressed in her white blouse and black slacks. 
+A welcome party met Lisa and her team as they de-planed at Nozick airport. They were all dressed casually, in sandals, t-shirts and shorts, and Lisa felt overdressed in her white blouse and black slacks.
 
-“Heya,” one of the men said to Lisa, extending his right hand. “I’m Mike. This is Luis and Greta. We’re here to take you to your apartments."
+A man and a woman approached the group, and the man said "Heya," to Lisa, extending his right hand. “I’m Luis and this is Greta. We’re here to take you to your apartments."
 
-"Wonderful, thank you," Lisa replied. She hadn't been sure what to expct.
+"Wonderful, thank you," Lisa replied. She hadn't been sure what to expect.
 
 "How was the flight?"
 
 "Great, very smooth."
 
-"I'm glad to hear it. Yes Aviato's a solid airline."
+"I'm glad to hear it. Yea Aviato's a great airline."
 
 "You get what you pay for I guess," Lisa said wrily.
 
-"Ha ha, yes, very true," Mike answered, then: "here, let me take your bag.”
+"Ha ha, yes, very true," Luis laughed, then: "here, let me take your bag.”
 
-“Thanks,” Lisa said and let Mike take her roller bag.
+“Thanks,” Lisa said as Luis took the handle of her roller bag.
 
-“We’ve split you up across four apartments, four in each," Mike explained. "They’re on the other side of the island, the North Shore, looking out over the water. I think you’ll like them.”
+“We’ve split you up across four apartments, four in each," he explained. "They’re on the other side of the island, the North Shore, looking out over the water. They're pretty nice, I think you’ll like them.”
 
 “Sounds great. And transportation?”
 
@@ -71,13 +71,13 @@ A group of two men and a woman met Lisa and her team as they de-planed at Nozick
 
 “Excellent,” Lisa said.
 
-Mike led them out of the airport and got into a four person car with Lisa, Greta and Suhil, the other lead negotiator. They made awkward small talk for a bit and then passed into silence, as the hosts respected that Lisa and Suhil were tired from the long trip.
+Luis led them out of the airport and ordered a four person car for Lisa, Greta, Suhil (the other lead negotiator) and himself. The rest of the group also got into four person cars, with two visitors and two hosts.
 
-It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present -- even in the center of the island you could smell the salt -- though the island was so massive it didn't feel the waves. The buildings were mostly apartment blocks, four or five stories high, with bungalows, family homes and office blocks scattered among them. The surface of the island had some gentle topography, and a hill on the eastern edge which was its highest point.
+The lead car was quiet at first, as the hosts respected that Lisa and Suhil were tired from the long trip. It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present -- even in the center of the island you could smell the salt -- but the island was so massive it didn't feel the waves. The surface had some gentle topography, with a hill on the eastern edge as the highest point.
 
-Although Friedland had been completed just five years ago, there was a studied lack of sterility. The master urban plan had been done by B.I.G., but competitions had been held to design different parts of the city, and even specific buildings, so each part of the island had a distinct character. Each neighborhood also had a park, and the streets had wide bike lanes and tree-lined pavements, except for some narrows side streets which seemed to be reserved for pedestrians and cyclists.
+Although Friedland had been completed just five years ago, there was a studied lack of sterility. The master urban plan had been done by B.I.G., but competitions had been held to design individual neighborhoors, and even individual buildings, so each part of the island had a distinct character. The buildings were mostly apartment blocks, four or five stories high, with bungalows, family homes, office blocks and parks scattered among them. The streets had wide bike lanes and tree-lined pavements, except for some narrows side streets which seemed to be reserved for pedestrians and cyclists.
 
-The city bustled, but it still felt slightly undercrowded, and Lisa made a mental note that the infrastructure could easily support an increase in the population. 
+The city bustled, but it felt undercrowded, and Lisa made a mental note that the infrastructure could easily support an increase in the population. 
 
 After maneuvering through the streets, the car eventually got onto a wide highway which intersected the middle of the island. 
 
@@ -87,17 +87,17 @@ After maneuvering through the streets, the car eventually got onto a wide highwa
 
 "Yea kind of," Greta answered. "We normally help with the orientation of new residents."
 
-"It's something that could be automated, but studies have shown that new residents get more out of it when humans lead their orientations," Mike added.
+"It's something that could be automated, but studies have shown that new residents get more out of it when humans lead their orientations," Luis added.
 
 "The rate of new people coming to the island has slowed down a lot, so we don't do this very often anymore," Greta continued. "Maybe once a month at this point. So the council thought it would be helpful for you guys to have some people to show you around."
 
 "Yes, definitely," Lisa agreed. "Your island is a very mysterious place."
 
-Mike and Greta looked at each other and grinned. "Yes, you could say that," Mike said. "We try to be selective about the kind of person who comes here. We don't want to discourage people from moving here, but we want to make them work for it a bit. Speak to people and do some research."
+Luis and Greta looked at each other and grinned. "Yes, you could say that," Luis said. "We try to be selective about the kind of person who comes here. We don't want to discourage people from moving here, but we want to make them work for it a bit. Speak to people and do some research."
 
 "So it's kind of a word-of-mouth thing?" Suhil asked. "A friend of a friend can give you the details?"
 
-"Yes. We also actively invite some people for whom there might be mutual benefits from them coming here," Mike said.
+"Yes. We also actively invite some people for whom there might be mutual benefits from them coming here," Luis said.
 
 "It's also a matter of self-preservation," Greta added. "There were fears that some countries or organizations might try to intervene in the island, because they disagreed with a policy decision, to target specific individuals or for some other reason. By keeping them out of the loop we give them less reason to interfere."
 
@@ -107,7 +107,7 @@ Mike and Greta looked at each other and grinned. "Yes, you could say that," Mike
 
 "Is it anonymous?" Suhil asked.
 
-"Of course," Mike said.
+"Of course," Luis said.
 
 The car had smoothly accelerated to 250 kilometers an hour once they got onto the highway, and they quickly got to the North shore of the island, which was only ten kilometers long. They took an off ramp and drove through the North Shore neighborhood. Finally on the edge of the water there were a set of four tall, glass apartment buildings, shaped like boat sails. 
 
