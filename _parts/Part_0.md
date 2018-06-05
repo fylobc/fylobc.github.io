@@ -73,13 +73,13 @@ Luis led them out of the airport and ordered a four person car for Lisa, Greta, 
 
 The lead car was quiet at first, as the hosts respected that Lisa and Suhil were tired from the long trip and let them take the island in. 
 
-It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present -- with the windows rolled down Lisa and Suhil could smell the salt -- but the island was so massive it didn't feel the waves. 
+It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present -- with the windows rolled down Lisa and Suhil could smell the salt -- but the island was so massive it didn't feel the waves. The surface had some gentle topography, with a hill on the eastern edge as the highest point. 
 
-Although Friedland had been completed just five years ago, there was a studied lack of sterility. The master urban plan had been done by B.I.G., but there had been competitions to design individual neighborhoors and even individual buildings, so each part of the island had a distinct character, though everywhere the island was sleek and hyper-modern. The buildings were mostly apartment blocks, four or five stories high, with bungalows, family homes, office blocks and parks scattered among them. The streets had wide bike lanes and tree-lined pavements, except for some narrows side streets which seemed to be reserved for pedestrians and cyclists. The surface had some gentle topography, with a hill on the eastern edge as the highest point. 
+Although Friedland had been built from scratch five years ago, there was a studied lack of sterility. The master urban plan had been done by B.I.G., but there had been competitions to design individual neighborhoors and even individual buildings, so each part of the island had a distinct character, though everything was sleek and hyper-modern. The buildings were mostly apartment blocks, four or five stories high, with bungalows, family homes, office blocks and parks scattered among them. The streets had wide bike lanes and tree-lined pavements, except for some narrows side streets which seemed to be reserved for pedestrians and cyclists. 
 
-The city bustled, but it felt undercrowded, and Lisa made a mental note that the infrastructure could easily support an increase in the population. 
+The city bustled, but it felt undercrowded, and Lisa made a mental note that the infrastructure could easily support an increase in population. 
 
-After maneuvering through the neighborhoods bordering the air-stip, the car took a ramp onto a wide highway which intersected the middle of the island. 
+After maneuvering through the neighborhoods bordering the air-strip, the car took a ramp onto a wide highway which intersected the middle of the island. 
 
 "The roads have a two-tiered structure," Greta explained. "Individual neighborhoods are designed to have a walkable, intuitive structure, and are not necessarily on a grid. Then main connector roads join the neighborhoods together. We just got on the biggest connector, which goes from the South Shore to the North Shore. It's a bit more expensive to go this way, instead of going through the neighborhoods, but we'll save some time."
 
@@ -99,11 +99,11 @@ Luis and Greta both grinned sheepishly. "Yes, you could say that," Luis said. "W
 
 "You could say that, yes. We also actively invite some people who we feel might benefit the community," Luis said.
 
-"But it's also a matter of self-preservation," Greta began. "There were fears that some countries or institutions might want to intervene in the island, because they disagreed with a policy decision, because they wanted to target a specific individual or for some other reason. But by keeping them out of the loop we give them less reason to interfere."
+"But it's also a matter of self-preservation," Greta stressed. "There were fears that some countries or institutions might want to intervene in the island, because they disagreed with a policy decision, because they wanted to target a specific individual or for some other reason. But by keeping them out of the loop we give them less reason to interfere."
 
 "You have your own social media, right? Like a member-only version of Slack?" Lisa asked.
 
-"Yes, Delphi -- like the Oracle," Greta answered. "It's a kind of bulletin board for the island, where people can make announcements, post notes, request help," Greta explained.
+"Yes, Delphi -- like the oracle," Greta answered. "It's a kind of bulletin board for the island, where people can make announcements, post notes, request help," Greta explained.
 
 "Is it anonymous?" Suhil asked.
 
