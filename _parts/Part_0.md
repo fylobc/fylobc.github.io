@@ -19,7 +19,7 @@ title: "1. Into Friedland"
 
 Lisa nodded and looked through the notes she had made in preparation for the meeting. “So what’s your advice?” she asked.
 
-“It’s a bit of a Catch-22,” Professor Ervin said. “You want to keep an open mind, because they will have useful ideas. And their optimism is infectious, you’ll feel energized. But you should also be wary. Listen to what they have to say, then give yourself some time to process it. You might realize there’s a detail that bothers you.”
+“It’s a bit of a Catch-22,” Professor Ervin said. “You'll want to keep an open mind, because they will have useful ideas. And their optimism is infectious, you’ll feel energized. But you should also be wary. Listen to what they have to say, then give yourself some time to process it. You might realize there’s a detail that bothers you.”
 
 “Thanks, I’ll keep that in mind. And thanks again for meeting with me.”
 
@@ -37,17 +37,15 @@ Lisa still felt uneasy about the foreigness of the people running Friedland. She
 
 Outsiders also couldn’t access the island's property agreements, though in theory there was enough space for Friedland to take in 10 000 refugees, especially since its inhabitants tended to travel a lot. If the residents were particularly moved, they might even be persuaded to build another island to house refugees. That was a dream scenario, but she didn’t rule it out. As everyone had stressed to her, the people who lived in Friedland liked thinking outside the box, and building a new island was an innovative way of addressing the refugee crisis.
 
-On the other hand, Friedland was an oasis of techno-libertarians, who didn’t seem like the sort of people who worried too much about things like housing refugees. Lisa had read that one of the island’s main philanthropic endeavors was the Artificial Intelligence Containment Institute, which studied how to control superintelligent programs. The Friedland community considered these to be the most dangerous risk to humanity and funding this research was viewed as the most effective form of philanthropy.
+On the other hand, Friedland was an oasis of techno-libertarians, who didn’t seem like the sort of people who worried too much about things like housing refugees. Lisa had read that one of the island’s main philanthropic endeavors was the Artificial Intelligence Containment Institute, which studied how to control superintelligent programs. To the Friedland community these were the greatest risk to humanity and funding this research was viewed as the most effective form of philanthropy.
 
-So the team had had to prepare for any possibility, from outright rejection to an offer to house a substantial fraction of the global refugee population. Lisa had met with various people who might give her some insight on what to expect: political scientists, economists, psychologists and people in tech who hadn’t moved to the island, but no one given her anything more than general negotiating advice. The problem was no one had ever moved back off the island, so all the information the team had came from the agreement founding Friedland and from trawling through the internet and public posts on social media. It had occurred to Lisa that the island might encourage a culture of secrecy exactly to gain an advantage in negotiating with outsiders.
+So the negotiating team had had to prepare for any possibility, from outright rejection to an offer to house a substantial fraction of the global refugee population. Lisa had met with various people who might give her some insight on what to expect: political scientists, economists, psychologists and people in tech who hadn’t moved to the island, but no one had given her anything more than general negotiating advice. The problem was no one had ever moved back off the island, so all the information the team had came from the agreement founding Friedland and from trawling through the internet and public posts on social media. It had occurred to Lisa that the island might encourage a culture of secrecy exactly to gain an advantage in negotiating with outsiders.
 
 Despite her unease, there was nothing more Lisa could do, so she selected a movie on the screen and tried to relax as the plane started its descent over the south Pacific.
 
 <hr>
 
-A welcome party met Lisa and her team as they de-planed at Nozick airport. They were all dressed casually, in sandals, t-shirts and shorts, and Lisa felt overdressed in her white blouse and black slacks.
-
-A man and a woman approached the group, and the man said "Heya," to Lisa, extending his right hand. “I’m Luis and this is Greta. We’re here to take you to your apartments."
+A welcome party met Lisa and her team as they de-planed at Nozick airport, all dressed casually, in sandals, t-shirts and shorts, and Lisa felt overdressed in her white blouse and black slacks. A man and a woman approached the group, and the man said "Heya," to Lisa, extending his right hand. “I’m Luis and this is Greta. We’re here to take you to your apartments."
 
 "Wonderful, thank you," Lisa replied. She hadn't been sure what to expect.
 
@@ -59,9 +57,9 @@ A man and a woman approached the group, and the man said "Heya," to Lisa, extend
 
 "You get what you pay for I guess," Lisa said wrily.
 
-"Ha ha, yes, very true," Luis laughed, then: "here, let me take your bag.”
+"Ha ha, yes, very true," Luis laughed. "Here, let me take your bag.”
 
-“Thanks,” Lisa said as Luis took the handle of her roller bag.
+“Thank you,” Lisa replied as Luis took the handle of her roller bag.
 
 “We’ve split you up across four apartments, four in each," he explained. "They’re on the other side of the island, the North Shore, looking out over the water. They're pretty nice, I think you’ll like them.”
 
@@ -69,41 +67,43 @@ A man and a woman approached the group, and the man said "Heya," to Lisa, extend
 
 “Lyft works here just like anywhere else, you can just call a car. They go from individual units to six people vans.”
 
-“Excellent,” Lisa said.
+“Excellent.” 
 
 Luis led them out of the airport and ordered a four person car for Lisa, Greta, Suhil (the other lead negotiator) and himself. The rest of the group also got into four person cars, with two visitors and two hosts.
 
-The lead car was quiet at first, as the hosts respected that Lisa and Suhil were tired from the long trip. It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present -- even in the center of the island you could smell the salt -- but the island was so massive it didn't feel the waves. The surface had some gentle topography, with a hill on the eastern edge as the highest point.
+The lead car was quiet at first, as the hosts respected that Lisa and Suhil were tired from the long trip and let them take the island in. 
 
-Although Friedland had been completed just five years ago, there was a studied lack of sterility. The master urban plan had been done by B.I.G., but competitions had been held to design individual neighborhoors, and even individual buildings, so each part of the island had a distinct character. The buildings were mostly apartment blocks, four or five stories high, with bungalows, family homes, office blocks and parks scattered among them. The streets had wide bike lanes and tree-lined pavements, except for some narrows side streets which seemed to be reserved for pedestrians and cyclists.
+It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present -- with the windows rolled down Lisa and Suhil could smell the salt -- but the island was so massive it didn't feel the waves. 
+
+Although Friedland had been completed just five years ago, there was a studied lack of sterility. The master urban plan had been done by B.I.G., but there had been competitions to design individual neighborhoors and even individual buildings, so each part of the island had a distinct character, though everywhere the island was sleek and hyper-modern. The buildings were mostly apartment blocks, four or five stories high, with bungalows, family homes, office blocks and parks scattered among them. The streets had wide bike lanes and tree-lined pavements, except for some narrows side streets which seemed to be reserved for pedestrians and cyclists. The surface had some gentle topography, with a hill on the eastern edge as the highest point. 
 
 The city bustled, but it felt undercrowded, and Lisa made a mental note that the infrastructure could easily support an increase in the population. 
 
-After maneuvering through the streets, the car eventually got onto a wide highway which intersected the middle of the island. 
+After maneuvering through the neighborhoods bordering the air-stip, the car took a ramp onto a wide highway which intersected the middle of the island. 
 
-"The roads have a two-tiered structure," Greta explained. "Individual neighborhoods are designed to have a walkable, intuitive structure, not necessarily on a grid. Then main connector roads join the neighborhoods together. We're on the biggest connector, which goes from the South Shore to the North Shore. It's more expensive to go this way, instead of going through the neighborhoods."
+"The roads have a two-tiered structure," Greta explained. "Individual neighborhoods are designed to have a walkable, intuitive structure, and are not necessarily on a grid. Then main connector roads join the neighborhoods together. We just got on the biggest connector, which goes from the South Shore to the North Shore. It's a bit more expensive to go this way, instead of going through the neighborhoods, but we'll save some time."
 
 "Interesting," Suhil said. "So are you guys actually our tour guides?"
 
-"Yea kind of," Greta answered. "We normally help with the orientation of new residents."
+"Yea sort of," Greta answered. "We normally help with the orientation of new residents."
 
 "It's something that could be automated, but studies have shown that new residents get more out of it when humans lead their orientations," Luis added.
 
-"The rate of new people coming to the island has slowed down a lot, so we don't do this very often anymore," Greta continued. "Maybe once a month at this point. So the council thought it would be helpful for you guys to have some people to show you around."
+"The rate of new people coming to the island has slowed down a lot, so we don't do it very often anymore," Greta continued. "Maybe once a month at this point. But the council thought it would be helpful for you guys to have some people to show you around."
 
 "Yes, definitely," Lisa agreed. "Your island is a very mysterious place."
 
-Luis and Greta looked at each other and grinned. "Yes, you could say that," Luis said. "We try to be selective about the kind of person who comes here. We don't want to discourage people from moving here, but we want to make them work for it a bit. Speak to people and do some research."
+Luis and Greta both grinned sheepishly. "Yes, you could say that," Luis said. "We try to be selective about the kind of person who comes here. We don't want to discourage people from moving here, but we do want to make them work for it a bit. Speak to people and do some research."
 
-"So it's kind of a word-of-mouth thing?" Suhil asked. "A friend of a friend can give you the details?"
+"So it's kind of a word-of-mouth thing?" Suhil asked. "You have to get a friend of a friend to give you the details?"
 
-"Yes. We also actively invite some people for whom there might be mutual benefits from them coming here," Luis said.
+"You could say that, yes. We also actively invite some people who we feel might benefit the community," Luis said.
 
-"It's also a matter of self-preservation," Greta added. "There were fears that some countries or organizations might try to intervene in the island, because they disagreed with a policy decision, to target specific individuals or for some other reason. By keeping them out of the loop we give them less reason to interfere."
+"But it's also a matter of self-preservation," Greta began. "There were fears that some countries or institutions might want to intervene in the island, because they disagreed with a policy decision, because they wanted to target a specific individual or for some other reason. But by keeping them out of the loop we give them less reason to interfere."
 
 "You have your own social media, right? Like a member-only version of Slack?" Lisa asked.
 
-"Yes, Delphi -- like the Oracle," Greta answered. "It's kind of a bulletin board for the island, where people can make announcements, post notes, request help," Greta explained.
+"Yes, Delphi -- like the Oracle," Greta answered. "It's a kind of bulletin board for the island, where people can make announcements, post notes, request help," Greta explained.
 
 "Is it anonymous?" Suhil asked.
 
