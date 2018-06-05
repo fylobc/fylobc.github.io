@@ -45,7 +45,7 @@ Despite her unease, there was nothing more Lisa could do, so she selected a movi
 
 <hr>
 
-A welcome party met Lisa and her team as they de-planed at Nozick airport, all dressed casually, in sandals, t-shirts and shorts, and Lisa felt overdressed in her white blouse and black slacks. A man and a woman approached the group, and the man said "Heya," to Lisa, extending his right hand. “I’m Luis and this is Greta. We’re here to take you to your apartments."
+A welcome party waited by the terminal for Lisa and her team as they de-planed at Nozick airport. The hosts were dressed casually, in sandals, t-shirts and shorts, and Lisa felt overdressed in her white blouse and black slacks. A man and a woman approached her as she walked from the plane to the terminal. "Heya," the man said, extending his right hand. “I’m Luis, and this is Greta. We’re here to take you to your apartments."
 
 "Wonderful, thank you," Lisa replied. She hadn't been sure what to expect.
 
