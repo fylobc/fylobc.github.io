@@ -13,13 +13,13 @@ title: "1. Into Friedland"
 
 “In a sense yes, but it’s more about being dogmatic. In a deep way, they suffer from confirmation bias. They build theories about the world, which they’re willing to test and discard if necessary. But they don’t question the fundamental assumption about whether the world can be theorized at all.”
 
-“There’s also something superficial to it as well, isn’t there? They take things very personally.”
+“There’s something more superficial to it as well, isn’t there? They take things very personally.”
 
 “Yes, exactly. Fanatics always do. If you start questioning them it doesn’t take long before they feel as though their core beliefs are being undermined. Things get existential quickly."
 
-Lisa nodded and looked through the notes she had made in preparation for the meeting. “So what’s your advice?” she asked.
+Lisa nodded and looked through the notes she had made in preparation for the meeting. “So what’s your advice?”
 
-“It’s a bit of a Catch-22,” Professor Ervin said. “You'll want to keep an open mind, because they will have useful ideas. And their optimism is infectious, you’ll feel energized. But you should also be wary. Listen to what they have to say, then give yourself some time to process it. You might realize there’s a detail that bothers you.”
+“It’s a bit of a Catch-22,” Professor Ervin answered. “You'll want to keep an open mind, because they will have useful ideas. And their optimism is infectious, you’ll feel energized. But you should also be wary. Listen to what they have to say, then give yourself some time to process it. You might realize there’s a detail that bothers you.”
 
 “Thanks, I’ll keep that in mind. And thanks again for meeting with me.”
 
@@ -29,9 +29,9 @@ Lisa nodded and looked through the notes she had made in preparation for the mee
 
 Lisa looked out of the window and thought of that line from Blood Meridian: <a href="https://books.google.com/books?id=s-QzccStux4C&pg=PA114&lpg=PA114&dq=The+floor+of+the+playa+lay+smooth+and+unbroken+by+any+track+and+the+mountains&source=bl&ots=hpVZhZfDod&sig=tZsiYYv6B8mVy_-6ceOdPzWUyAM&hl=en&sa=X&ved=0ahUKEwjypZPO6rnbAhUI7p8KHaW-ArkQ6AEIOjAC#v=onepage&q=The%20floor%20of%20the%20playa%20lay%20smooth%20and%20unbroken%20by%20any%20track%20and%20the%20mountains&f=false">“The floor of the playa lay smooth and unbroken by any track and the mountains in their blue islands stood footless in the void like floating temples.”</a> She tried to rework it for the Pacific, which was smooth and unbroken and blue below her, separated by white islands of cloud.
 
-She wasn’t enough of a connoisseur to say whether it was better than other first class services, but it was a nice ride. She had a private pod with an L-shaped couch, a window and a 50-inch screen, and the wireless was good enough to FaceTime with her husband for an hour. Everything was over-designed, as you’d expect, advertising its innovation, and the flight was perfectly smooth, with the plane’s navigation system keeping them away from any turbulence. It reminded Lisa of riding on a high speed train.
+She didn't have enough experience to say whether it was better than other first class services, but it was a nice ride. She had a private pod with an L-shaped couch, a window and a 50-inch screen, and the wireless was good enough to FaceTime with her husband for an hour. Everything was over-designed, as you’d expect, advertising its innovation, and the micro-adjustments made by the plane’s navigation system kept the plane moving smoothly through the air. It reminded Lisa of riding on a high speed train.
 
-The traditional way of getting to Friedland was via private jet, and Aviato was the only commercial airline that had a license to land on the island (this was deliberate of course), so it was expensive, but the team had been sent first class since the negotiations started the day after they landed. 
+The traditional way of getting to Friedland was via private jet, and Aviato was the only commercial airline that had a license to land on the island (this was deliberate of course), so it was expensive. But the team had been sent first class since the negotiations started the day after they landed. 
 
 Lisa still felt uneasy about the foreigness of the people running Friedland. She was used to negotiating with people from similar backgrounds to herself: policy analysts, lawyers, career politicians. Friedland’s governing council was made up of tech entrepreneurs, investors and academics. It was more like going to a board meeting, or even participating in a Reddit thread, and she had no feel for what the island's stance was going to be. This was the first time Friedland had been engaged in international diplomacy since the negotiations to create the island wrapped up seven years ago. From outside, it wasn't even clear how decisions were made on the island. It was known that Friedland had stuck with the governing council-model laid out in the agreement for its formation, but some decisions were also made via an elaborate online voting system, which all residents could participate in. 
 
@@ -103,7 +103,7 @@ Luis and Greta both grinned sheepishly. "Yes, you could say that," Luis said. "W
 
 "You have your own social media, right? Like a member-only version of Slack?" Lisa asked.
 
-"Yes, Delphi -- like the oracle," Greta answered. "It's a kind of bulletin board for the island, where people can make announcements, post notes, request help," Greta explained.
+"Yes, Delphi -- like the oracle," Greta answered. "It's a kind of bulletin board for the island, where people can make announcements, post notes, request help."
 
 "Is it anonymous?" Suhil asked.
 
