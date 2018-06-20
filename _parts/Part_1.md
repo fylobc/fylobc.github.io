@@ -3,7 +3,7 @@ layout: collection
 title: "2. All Black"
 ---
 
-They left the club and walked back together to her place. Their ears were ringing but the sounds of trucks moving through the warehouses and being unloaded were clear in the predawn air. The streets were empty otherwise and they were too dazed to notice the trucks. She let them in to her apartment at the top of a block and eventually they both fell asleep in her little bed.
+They left the club and walked back together to her place. Their ears were ringing but the sounds of trucks moving among the warehouses and being unloaded were clear in the predawn air. The streets were empty otherwise and they were too dazed to notice the trucks. She let them in to her apartment at the top of a block and eventually they both fell asleep in her little bed.
 
 <hr>
 
