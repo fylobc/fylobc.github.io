@@ -75,13 +75,13 @@ Luis led them out of the airport and ordered a four person car for Lisa, Greta, 
 
 The lead car was quiet at first, as the hosts respected that Lisa and Suhil were tired from the long trip and let them take the island in. 
 
-It was like being on a cross between an aircraft carrier and one of the artificial islands off Dubai. The water was ever-present -- with the windows rolled down Lisa and Suhil could smell the salt -- but the island was so massive it didn't feel the waves, and the infrastructure was fully developed.
+It was like being an aircraft carrier or one of the artificial islands off Dubai, except that the scale was ten times larger. The water was ever-present -- with the windows rolled down Lisa and Suhil could smell the salt -- and the island was so massive it didn't feel the waves. 
 
-Friedland had been built from scratch five years ago but there was a studied lack of sterility. The master urban plan had been done by B.I.G., with competitions to design individual neighborhoors and even individual buildings, so each part of the island had a distinct character, though everything was hyper-modern and clearly designed with the help of software. The buildings were mostly apartment blocks, four or five stories high, with bungalows, family homes, office blocks and parks scattered among them. The streets had wide bike lanes and tree-lined pavements, and cars moved along them in ordered sequences, moving at specified speed settings, except for some narrows side streets which seemed to be reserved for pedestrians and cyclists.
+There was a studied lack of sterility to Friedland, although it had only been completed five years ago. The master urban plan had been done by B.I.G., but there had been competitions to design individual neighborhoors and even individual buildings, so each part of the island had a distinct character, though everything was hyper-modern and clearly designed with the help of software. In some neighborhoods the apartment blocks seemed almost austere in the precision of their design, in others the buildings were amorphous, with strange shapes intersecting each other at odd angles. Parks and sports fields were scattered throughout, as were some gated compounds which Lisa guessed hid the mansions of the wealthier islanders from view. The streets had wide bike lanes and tree-lined pavements, and cars moved along them in perfect synchonization, except for some narrows side streets which seemed to be reserved for pedestrians and cyclists.
 
 The city bustled, but it felt undercrowded, and Lisa made a mental note that the island could easily support an increase in population. 
 
-After maneuvering through the neighborhoods bordering the air-strip, the car took a ramp onto a wide highway which intersected the middle of the island and smoothly accelerated to the faster speed limit. 
+After maneuvering through the neighborhoods bordering the airstrip, the car took a ramp onto a wide highway which bisected the middle of the island and smoothly accelerated to the faster speed limit. 
 
 "The roads have a two-tiered structure," Greta explained. "Individual neighborhoods are designed to have a walkable, intuitive structure, and are not necessarily on a grid. Then main connector roads join the neighborhoods together. We just got on the biggest connector, which goes from the South Shore to the North Shore. It's a bit more expensive to go this way, instead of going through the neighborhoods, but we'll save some time."
 
@@ -111,9 +111,9 @@ Luis and Greta both grinned sheepishly. "Yes, you could say that," Luis said. "W
 
 "Of course," Luis said.
 
-They quickly got to the North shore of the island, which was only ten kilometers long, and took an off ramp into the North Shore neighborhood. Finally, on the edge of the water, the car approached a set of four tall, glass apartment buildings, shaped like sails expanded in the wind. 
+They quickly got to the other size of the island, which was only ten kilometers long, and took an off ramp into the North Shore region. The car winded through a few different neighborhoods and then finally, on the edge of the water, approached a set of four tall, glass apartment buildings, shaped like sails expanded in the wind. 
 
-They had been traveling in a convoy with the seven other cars, and they all parked in unison outside the atrium of the center-left tower. The passengers got out, and Luis and Greta led the group into the building.
+Lisa's car had been leading a convoy with the seven other cars, and they all parked in unison outside the atrium of the center-left tower. The passengers got out, and Luis and Greta led the group into the building.
 
 "Your guides will now give you instructions for how to get to your apartments," Greta announced to the group. "Each apartment has two bedrooms, a kitchen and a living room. The kitchens are stocked based on the dietary preferences you gave us and we have also left guides to the amenities in the building as well as annotated maps of the neighborhood on the kitchen tables. The doors to the apartments are voice-controlled, based on the voice samples you sent us before coming here, so there is no need for keys. We will meet you here tomorrow at 8AM to bring you to the central meeting space."
 
